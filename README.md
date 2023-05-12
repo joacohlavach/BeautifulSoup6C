@@ -1,14 +1,14 @@
-# Grupo 2 - Beautiful Soup
+# Competitive Connection - Beautiful Soup
 ## Summarize
-Hablar de la función que va a cumplir Beaitiful Soup en nuestro proyecto y en que va a consistir
+In this project we are going to do **Web Scraping** using the *Beautiful Soup library*, ¿What will it consist of? Basically we will create a price comparison tool, that is, a scraper that extracts the prices of products from different e-commerce websites. Using the scraped data to compare prices and find the best deals on specific products.
 
 ## Problematic
-Indicar cuál va a ser la problemática a resolver 
+This tool comes to solve a problem that many companies have, which is competition, and through it, they will be able to analyze, study, understand and learn how the market works, what factors influence a product more or less, among others benefits.
 
 ## Installation and Set Up
-Para instalar todos los paquetes vas a necesitar correr los siguientes comandos en la terminal
+To install all the packages you will need run the followings commands in your terminal.
 
-> Necesitarás *pipenv* y *pyenv* para instalar y ejecutar la aplicación
+> You need *pipenv* and *pyenv* to install and run the proyect.
 
 ```
 $ pipenv --python 3.10
@@ -17,17 +17,19 @@ $ pip install html5lib
 $ pip install requests
 (venv)$ pip install -r requirements.txt
 ```
-Y para correrlo vas a necesitar...
+To run the proyect you will have...
 ```
 python...
 ```
 ## Usage
-Correr este comando en la terminal para abrir el proyecto
+Run this command in your terminal to run the proyect
 ```
-(venv)$ python bs/main.py
+(venv)$ python BeautifulSoup6C/main.py
 ```
 ## Resources
-Indicar que librerías vamos a utilizar
+We are going to use the followings libraries:
+* beautifulsoup4 
+* requests
 
 ## Developers
 * Bisio Facundo
