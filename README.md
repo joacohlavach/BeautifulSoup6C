@@ -13,11 +13,13 @@ Para instalar todos los paquetes vas a necesitar correr los siguientes comandos 
 ```
 $ pipenv --python 3.10
 $ sudo pip install beautifulsoup4
+$ pip install html5lib
+$ pip install requests
 (venv)$ pip install -r requirements.txt
 ```
 Y para correrlo vas a necesitar...
 ```
-sasasa
+python...
 ```
 ## Usage
 Correr este comando en la terminal para abrir el proyecto
