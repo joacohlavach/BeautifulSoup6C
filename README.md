@@ -12,9 +12,7 @@ To install all the packages you will need run the followings commands in your te
 
 ```
 $ pipenv --python 3.10
-$ sudo pip install beautifulsoup4
-$ pip install html5lib
-$ pip install requests
+$ pipenv shell
 (venv)$ pip install -r requirements.txt
 ```
 To run the proyect you will have...
