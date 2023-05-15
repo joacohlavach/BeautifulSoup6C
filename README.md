@@ -11,18 +11,13 @@ To install all the packages you will need run the followings commands in your te
 > You need *pipenv* and *pyenv* to install and run the proyect.
 
 ```
-$ pipenv --python 3.10
+$ pipenv install
 $ pipenv shell
-(venv)$ pip install -r requirements.txt
-```
-To run the proyect you will have...
-```
-python...
 ```
 ## Usage
 Run this command in your terminal to run the proyect
 ```
-(venv)$ python BeautifulSoup6C/main.py
+(venv)$ python main.py
 ```
 ## Resources
 We are going to use the followings libraries:
